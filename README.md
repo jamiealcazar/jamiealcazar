@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jamiealcazar
 - 👀 I’m interested in startups, the food industry, product management, and web development (and how those intersect!)
 - 🌱 I am a graduate of General Assembly's full-time software engineering immersive bootcamp.
-- 💞️ I’m looking for my first opportunity as a software engineer.
+- 💞️ I'm currently a Software Engineer Associate at Accenture.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/jamiealcazar/)
 
 <!---
